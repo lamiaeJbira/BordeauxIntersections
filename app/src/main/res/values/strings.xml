@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bordeaux Intersections</string>
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+    <!-- Titres de la navigation -->
+    <string name="nav_map">Carte</string>
+    <string name="nav_list">Liste</string>
+    <string name="nav_alerts">Alertes</string>
+</resources>

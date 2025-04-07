@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "title": "Chantier Cours Victor Hugo",
+      "description": "Rénovation de la chaussée",
+      "status": "En cours",
+      "geoPoint": {
+        "latitude": 44.837789,
+        "longitude": -0.571752
+      }
+    },
+    {
+      "title": "Travaux Place Gambetta",
+      "description": "Aménagement de la place",
+      "status": "Planifié",
+      "geoPoint": {
+        "latitude": 44.841792,
+        "longitude": -0.578485
+      }
+    },
+    {
+      "title": "Réparation Rue Sainte-Catherine",
+      "description": "Maintenance des canalisations",
+      "status": "En cours",
+      "geoPoint": {
+        "latitude": 44.840581,
+        "longitude": -0.573851
+      }
+    },
+    {
+      "title": "Installation Cours de l'Intendance",
+      "description": "Installation de la fibre optique",
+      "status": "Terminé",
+      "geoPoint": {
+        "latitude": 44.842296,
+        "longitude": -0.574639
+      }
+    }
+  ]
+}
