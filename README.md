@@ -38,10 +38,6 @@ L'application est structurée autour de trois onglets principaux :
 - **Liste** : Affichage détaillé des chantiers avec options de recherche, filtrage et tri.
 - **Alertes** : Configuration des notifications en fonction de la proximité des zones de travaux, avec consultation de l’historique des alertes.
 
-##### Structure du projet
-/ ├── app/ │ ├── src/ │ │ ├── main/ │ │ │ ├── java/ │ │ │ │ └── com/example/smartintersections/ │ │ │ │ ├── activities/ │ │ │ │ ├── fragments/ │ │ │ │ └── services/ │ │ │ ├── res/ │ │ │ │ ├── layout/ │ │ │ │ └── values/ │ └── build.gradle └── README.md
-
-
 ##### Tests et Validation
 
 L'application a été testée sur l'émulateur Pixel 8 sous Android 13. Les tests incluent :
